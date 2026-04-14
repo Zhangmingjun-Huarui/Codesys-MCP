@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "codesys": {
+      "command": "node",
+      "args": [
+        "D:\\Codesys-MCP-main\\Codesys-MCP-main\\dist\\bin.js",
+        "--codesys-path",
+        "C:\\Program Files\\CODESYS 3.5.19.50\\CODESYS\\Common\\CODESYS.exe",
+        "--codesys-profile",
+        "CODESYS V3.5 SP19 Patch 5",
+        "--mode",
+        "persistent",
+        "--workspace",
+        "D:\\Codesys-MCP-Test",
+        "--verbose"
+      ]
+    }
+  }
+}
