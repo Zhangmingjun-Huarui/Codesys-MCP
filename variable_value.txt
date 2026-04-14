@@ -1,0 +1,12 @@
+Project opened: D:\Codesys-MCP-main\Codesys-MCP-main\AccumulatorProject.project
+Active application: Application
+Online app created.
+Login successful.
+Application started.
+nAccumulator: INT#6
+nCycleCount: DINT#0
+bEnable: TRUE
+nStep: INT#1
+nMaxValue: INT#1000
+Logged out.
+SCRIPT_SUCCESS
