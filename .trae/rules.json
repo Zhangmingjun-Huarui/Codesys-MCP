@@ -1,0 +1,10 @@
+﻿{
+  "rules": [
+    {
+      "name": "CODESYS综合开发规范",
+      "path": "D:\\Codesys-MCP-main\\Codesys-MCP-Test\\CODESYS_综合开发规范_Rev1.0.1.260331.md",
+      "type": "local",
+      "priority": "high"
+    }
+  ]
+}
